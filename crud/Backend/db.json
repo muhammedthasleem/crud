@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Melbin",
+      "salary": "100000",
+      "company": "MY COMPANY",
+      "id": 1
+    },
+    {
+      "name": "Aman Gop",
+      "salary": "40000",
+      "company": "TCS",
+      "id": 3
+    },
+    {
+      "name": "Adwaith P ",
+      "salary": "30000",
+      "company": "WIPRO",
+      "id": 4
+    },
+    {
+      "name": "Anu Tomy",
+      "salary": "37000",
+      "company": "AMAZON",
+      "id": 5
+    },
+    {
+      "name": "Malavika P",
+      "salary": "37000",
+      "company": "GOOGLE",
+      "id": 6
+    },
+    {
+      "name": "Dayn",
+      "salary": "90000",
+      "company": "ACCENTURE",
+      "id": 8
+    },
+    {
+      "name": "thasleem",
+      "salary": "478934",
+      "company": "abc",
+      "id": 9
+    }
+  ]
+}
